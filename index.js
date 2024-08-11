@@ -26,7 +26,7 @@ document.getElementById("dev").style.fontVariant="small-caps";
 document.getElementById("dev").style.wordSpacing="5px";
 document.getElementById("dev").style.lineHeight="1.5";
 
-document.getElementById("df").innerHTML= "This is table";
+document.getElementById("df").innerHTML= "This is a table";
 document.getElementById("df").style.color="blue";
 document.getElementById("df").style.fontSize="20px";
 document.getElementById("df").style.backgroundColor="red";
@@ -53,3 +53,25 @@ document.getElementById("df").style.fontStyle="italic";
 document.getElementById("df").style.fontVariant="small-caps";
 document.getElementById("df").style.wordSpacing="5px";
 document.getElementById("df").style.lineHeight="1.5";
+
+
+document.getElementById("gh").innerHTML= "This is  a table";
+document.getElementById("gh").style.color="yellow";
+document.getElementById("gh").style.fontSize="20px";
+document.getElementById("gh").style.backgroundColor="black";
+document.getElementById("gh").style.textAlign="center";
+document.getElementById("gh").style.padding="10px";
+document.getElementById("gh").style.border="1px solid black";
+document.getElementById("gh").style.borderRadius="5px";
+document.getElementById("gh").style.margin="10px";
+document.getElementById("gh").style.display="block";
+document.getElementById("gh").style.width="300px";
+document.getElementById("gh").style.marginLeft="auto";
+document.getElementById("gh").style.marginRight="auto";
+document.getElementById("gh").style.textTransform="uppercase";
+document.getElementById("gh").style.letterSpacing="2px";
+document.getElementById("gh").style.textShadow="2px 2px 4px #000000";
+document.getElementById("gh").style.boxShadow="2px 2px 4px #000000";
+document.getElementById("gh").style.textDecoration="underline";
+document.getElementById("gh").style.textDecorationColor="red";
+document.getElementById("gh").style.textDecorationThickness="2px";
